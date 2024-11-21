@@ -1,4 +1,4 @@
-name: MacOS1
+name: MacOS
 on: 
   push:
     paths:
